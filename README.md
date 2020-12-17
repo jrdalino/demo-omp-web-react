@@ -1,4 +1,4 @@
-# demo-omp-web-react# tsi-incidents-react
+# demo-omp-web-react
 
 ## Background
 - Problem: Org Metrics Projects > DORA Metrics
