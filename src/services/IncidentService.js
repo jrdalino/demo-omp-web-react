@@ -2,7 +2,7 @@ import axios from "axios";
 import { Auth } from "aws-amplify";
 
 const INCIDENT_API_BASE_URL =
-  "https://vry1n6l7u4.execute-api.ap-southeast-1.amazonaws.com/prod/incidents";
+  "https://0tgyf7bp72.execute-api.ap-southeast-1.amazonaws.com/prod/incidents";
 
 class IncidentService {
   fetchIncidents = async () => {
